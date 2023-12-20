@@ -1,0 +1,12 @@
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\bin\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.deps.json
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\bin\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.dll
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\bin\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.pdb
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.AssemblyInfoInputs.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.AssemblyInfo.cs
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.dll
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\refint\Fabbri.Mattia.4i.LibSlotmachine.dll
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\Fabbri.Mattia.4i.LibSlotmachine.pdb
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.LibSlotmachine\obj\Debug\net6.0\ref\Fabbri.Mattia.4i.LibSlotmachine.dll
