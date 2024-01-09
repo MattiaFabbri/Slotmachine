@@ -28,8 +28,6 @@ namespace Fabbri.Mattia._4i.CliSlotmachine
             string risposta;
 
             Console.WriteLine("Benvenuto nella slot machine, queste sono le regole:\n" +
-                              "- L'utente può decidere per sole due volte di tenere una o più lettere apparse e far girare nuovamente le rotelle o fermarsi.\n" +
-                              "- Una volta fermato:\n" +
                               "  - Se c'è una coppia, viene restituita una moneta.\n" +
                               "  - Se c'è un tris di lettere uguali, vengono restituite un numero di monete pari alla posizione in ordine alfabetico della lettera del tris (es. tre C corrispondono a 3 monete).\n" +
                               "  - Se ci sono tre lettere consecutive (es. ABC oppure EFG), vengono restituite 50 monete.\n" +
