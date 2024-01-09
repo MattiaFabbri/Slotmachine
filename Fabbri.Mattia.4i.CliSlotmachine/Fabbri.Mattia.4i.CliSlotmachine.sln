@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fabbri.Mattia.4i.CliSlotmachine", "Fabbri.Mattia.4i.CliSlotmachine.csproj", "{86E8753B-8D99-4427-B12D-717186F1346C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{86E8753B-8D99-4427-B12D-717186F1346C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86E8753B-8D99-4427-B12D-717186F1346C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86E8753B-8D99-4427-B12D-717186F1346C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86E8753B-8D99-4427-B12D-717186F1346C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2844EF95-6D09-4C43-A94B-69C18DCE0718}
+	EndGlobalSection
+EndGlobal

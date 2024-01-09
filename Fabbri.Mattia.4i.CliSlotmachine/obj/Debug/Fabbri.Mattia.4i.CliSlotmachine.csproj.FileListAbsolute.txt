@@ -1,0 +1,15 @@
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe.config
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.pdb
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.csproj.AssemblyReference.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.csproj.SuggestedBindingRedirects.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.csproj.CoreCompileInputs.cache
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe
+C:\Users\studente\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.pdb
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.csproj.AssemblyReference.cache
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.csproj.CoreCompileInputs.cache
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\obj\Debug\Fabbri.Mattia.4i.CliSlotmachine.pdb
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe.config
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.exe
+C:\Users\fabbr\Desktop\Fabbri.Mattia.4i.Slotmachine\Fabbri.Mattia.4i.CliSlotmachine\bin\Debug\Fabbri.Mattia.4i.CliSlotmachine.pdb
