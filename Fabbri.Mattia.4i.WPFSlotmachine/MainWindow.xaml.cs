@@ -18,11 +18,7 @@ namespace Fabbri.Mattia._4i.Slotmachine
         }
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            if (slotmachine.GetSaldo() != 0)
-            {
-                slotmachine.DecrementaSaldo();
-            }
-
+            
             if (!(slotmachine.GetSaldo() == 0))
             {
                 partite++;
@@ -33,6 +29,10 @@ namespace Fabbri.Mattia._4i.Slotmachine
             else
             {
                 RestartStat();
+            }
+            if (slotmachine.GetSaldo() != 0)
+            {
+                slotmachine.DecrementaSaldo();
             }
             AggiornaStato(Partite, Saldo, UltimaVincita);
         }
